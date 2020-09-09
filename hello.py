@@ -6,3 +6,4 @@ def get_summ(one, two, delimiter='&'):
     return result
 
 print(get_summ("Learn","Python"))
+print("Hello")
